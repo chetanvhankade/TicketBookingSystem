@@ -1,0 +1,3 @@
+Movie rrr showTime 12:00 seats 1 User cv Seat Numbers A1
+Movie rrr showTime 6:00 seats 2 User vk Seat Numbers A1,A2
+Movie animal showTime 12:00 seats 2 User cv Seat Numbers A1,A2
