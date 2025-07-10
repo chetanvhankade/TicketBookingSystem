@@ -42,9 +42,6 @@ CREATE TABLE Booking (
 );
 
 📁 Project Structure
-
-MovieTicketBookingSystem/
-│
 ├── src/
 │   ├── org/example/
 │   │   ├── TicketBookingSystem.java   
@@ -54,3 +51,5 @@ MovieTicketBookingSystem/
 ├── bookings.txt                
 ├── README.md
 └── pom.xml        
+ScreenShot
+<img width="247" height="124" alt="Screenshot 2025-07-10 200231" src="https://github.com/user-attachments/assets/e3133338-a2a8-404f-b6bc-25cc3100eee5" />
