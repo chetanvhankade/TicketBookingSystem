@@ -40,6 +40,7 @@ CREATE TABLE Booking (
     user_name VARCHAR(50),
     seat_numbers VARCHAR(20)
 );
+
 📁 Project Structure
 
 MovieTicketBookingSystem/
@@ -50,6 +51,6 @@ MovieTicketBookingSystem/
 │   │   ├── DatabaseConnection.java  
 │   │   └── Main.java                
 │
-├── tickets.txt                
+├── bookings.txt                
 ├── README.md
 └── pom.xml        
